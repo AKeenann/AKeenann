@@ -1,7 +1,7 @@
 ## Lab 01
 
-- Name:
-- Email:
+- Name: Andrew Keenan
+- Email: keenan.15@wright.edu
 
 ## Part 1 Answers
 
