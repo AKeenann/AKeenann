@@ -32,7 +32,7 @@ line3
 1. SSH command to sign in to your AWS instance:
 
 ```
-**write command here so it will look fancy on GitHub**
+ssh -i ./labsuser.pem ubuntu@3.228.152.193
 ```
 
 ## Part 5 Answers
