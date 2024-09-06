@@ -25,7 +25,7 @@ line3
 ## Part 3 Answers
 
 1. cp test.txt .hiddentext.txt
-2. ls -a
+2. ls -lah
 
 ## Part 4 Answers
 
